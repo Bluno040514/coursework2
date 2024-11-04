@@ -1,4 +1,4 @@
-public class Volumn {
+public class Volume {
     public static double sphere(double d) {
         double r = d / 2;
         double v = (4.0 / 3) * Math.PI * r*r*r;
